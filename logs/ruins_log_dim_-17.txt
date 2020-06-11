@@ -1,0 +1,3 @@
+
+Loading options from: G:\Minecraft\OwnServer\world\DIM-17
+Ruins mod loaded successfully for world .\world\DIM-17, template files: 31
