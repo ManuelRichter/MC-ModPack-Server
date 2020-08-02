@@ -1,3 +1,0 @@
-
-Loading options from: G:\Minecraft\OwnServer\world\DIM-9999
-Ruins mod loaded successfully for world .\world\DIM-9999, template files: 31

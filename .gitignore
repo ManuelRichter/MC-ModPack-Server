@@ -1,0 +1,6 @@
+.log
+world
+logs/
+usercache.json
+usernamecache.json
+.mixin.out
