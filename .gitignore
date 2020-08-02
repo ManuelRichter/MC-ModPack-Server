@@ -1,5 +1,5 @@
-.log
-world
+*.log
+/world/*
 logs/
 usercache.json
 usernamecache.json
